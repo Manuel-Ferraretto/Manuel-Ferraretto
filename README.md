@@ -1,5 +1,6 @@
 Hi there 👋
 Welcome to my GitHub repositories!
+Here are some projects in which I took part in or were built by myself. 
 
 About me
   - I'm doing a degree in Information System Engineering. 
@@ -12,4 +13,5 @@ Tech Stack
   - Python | Django
   - C# | .Net Core 
   - SQL | MySQL - PostgreSQL - SQL Server - SQLite
+
 
