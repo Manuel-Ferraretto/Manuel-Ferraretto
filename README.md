@@ -5,7 +5,7 @@ Here are some projects in which I took part in or were built by myself.
 ## About me
   - I'm doing a degree in Information System Engineering. 
   - Currently embarking on personal projects regarding web development to put my knowledge into practice and to learn new technologies or coding best practices.
-  - Stuyding technologies and practices within DevOps domain including CI/CD, Acceptance Tests, Docker, Kubernetes, Cloud Platforms. 
+  - Engaging in self-study to explore various technologies and practices within DevOps domain including CI/CD, Acceptance Tests, Docker, Kubernetes, Cloud Platforms. 
   - Also, interested in artificial intelligence and data mining.  
   
   
