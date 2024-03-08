@@ -11,6 +11,9 @@ Here are some projects in which I took part in or were built by myself.
   
 ## Tech Stack 
   - Java | Java EE - Springboot 
-  - Python | Django 
-  - C# | .Net Core 
+  - Python | Django
+  - Javascript | React
   - SQL | MySQL - PostgreSQL - SQL Server - SQLite
+  - Linux
+  - Postman
+
